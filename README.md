@@ -1,5 +1,5 @@
 # tic-tac-react
-Tic Tac Toe game demonstrating basic React.js functionality
+<h1>Tic Tac Toe game demonstrating basic React.js functionality</h1>
 <br />
 From the official React documentation: https://reactjs.org/tutorial/tutorial.html 
 <br />
