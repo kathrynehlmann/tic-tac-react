@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+app.set('port', (process.env.PORT || 3000));
 
 function Square(props) {
   return (
